@@ -1,9 +1,7 @@
 # myzer
-### _Your Name <your.name@example.com>_
 
-This is a project to do ... something.
+An extension to cl-portaudio for analyzing sound.
 
 ## License
 
-Specify license here
-
+Apache License 2.0
